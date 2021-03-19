@@ -103,7 +103,7 @@ namespace Parcial1
                 }
             }
 
-            label5.Text = "Disponibilidad es: " + max.ToString() + " de libros";
+            label5.Text = "Disponibilidad es:  " + max.ToString() + "  de libros";
         }
     }
 }
